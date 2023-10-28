@@ -29,4 +29,4 @@ async def recycleimg(ctx):
      text="Recycle"  
      await ctx.send(file=picture,content=text)
 
-bot.run("MTE2MDE0ODM4MDgyNDEwOTA3Ng.GoXJwF.qD_scjT4uKLWFtZ_B35VpMnWpJ7HprhDbM_NN0")
+bot.run("TOKEN")
